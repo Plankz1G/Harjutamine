@@ -1,2 +1,5 @@
 GitHub on faili versiooni haldus keskond. Versiooni haldus lahendusi kasutatakse enamasti programmerimisel. 
 Versiooni haldus teeb arenduse lihtsamaks tiimide jaoks. Tiimide puhul versiooni haldusega ei teki probleeme uuenduste lisamisel.
+
+Mina saan kasutada github-i kasutad vabavara tarkvara ja scriptide ligipääsuks. Githubis on suurem osa vabavarana arendatud programme ja scripte.
+
