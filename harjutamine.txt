@@ -3,3 +3,8 @@ Versiooni haldus teeb arenduse lihtsamaks tiimide jaoks. Tiimide puhul versiooni
 
 Mina saan kasutada github-i kasutad vabavara tarkvara ja scriptide ligipääsuks. Githubis on suurem osa vabavarana arendatud programme ja scripte.
 
+
+
+GitHub asutati aastal 2008, Githubi asutajateks on Tom Preston-Warner, Chris Wanstrath, P.J Hyett, Scott Chacon.
+Ettevõtte peakontor asub San Franciscos, Californias, USA-s. Alates 2018 ettevõtte emafirmaks on Microsoft. 
+Github on suures osas tasuta nii ettevõtetele kui erasikutele. Ettevõtte pakub tasulist teenust ettevõttetele.
