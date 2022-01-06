@@ -1,0 +1,2 @@
+GitHub on faili versiooni haldus keskond. Versiooni haldus lahendusi kasutatakse enamasti programmerimisel. 
+Versiooni haldus teeb arenduse lihtsamaks tiimide jaoks. Tiimide puhul versiooni haldusega ei teki probleeme uuenduste lisamisel.
